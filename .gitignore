@@ -1,0 +1,8 @@
+*.pyc
+*.xls
+*.dat
+*.tsv
+tags
+*.DS_STORE
+*.csv
+.idea/
